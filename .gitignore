@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+/fullbackendcodecse25-main/Assignment/assignment 4/backend/requests.json
+/fullbackendcodecse25-main/gitcommand.txt
